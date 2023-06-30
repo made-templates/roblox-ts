@@ -1,0 +1,12 @@
+{
+	"recommendations": [
+        "aaron-bond.better-comments",
+        "igorsbitnev.error-gutters",
+        "usernamhw.errorlens",
+		"roblox-ts.vscode-roblox-ts",
+		"dbaeumer.vscode-eslint",
+        "christian-kohler.npm-intellisense",
+        "esbenp.prettier-vscode",
+        "rvest.vs-code-prettier-eslint"
+	]
+}
